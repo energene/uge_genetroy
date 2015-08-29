@@ -1,8 +1,9 @@
+#  -a --> shows hidden files
 q
 history | less
 clear
 history |less
-history 
+history
 subl /
 subl
 ls
@@ -15,17 +16,17 @@ cd Drop\ Box/
 cd dr
 cd Public/
 cd Applications/
-cd.. 
+cd..
 ls -l
 cd..
 cd.
 cd Downloads/
 cd Down
 cd Music/
-lsof 
+lsof
 cd ~
 man ls
-man 3 
+man 3
 ls -a
 ls -rt
 ls -t
@@ -41,7 +42,7 @@ cd Desktop/
 cd D
 cd ~/Down
 cd ~/Dow
-cd   
+cd
 dir
 git config --global user.email
 git config --global user.email "genetroy@hotmail.com"
@@ -71,7 +72,7 @@ brew doctor
 brew help
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 ls -trl
-edit 
+edit
 editor
 ls -t |less
 ls -t
@@ -82,7 +83,7 @@ q
 history | less
 clear
 history |less
-history 
+history
 subl /
 subl
 ls /
@@ -94,17 +95,17 @@ cd Drop\ Box/
 cd dr
 cd Public/
 cd Applications/
-cd.. 
+cd..
 ls -l
 cd..
 cd.
 cd Downloads/
 cd Down
 cd Music/
-lsof 
+lsof
 cd ~
 man ls
-man 3 
+man 3
 ls -a
 ls -rt
 ls -r
@@ -119,7 +120,7 @@ cd Desktop/
 cd D
 cd ~/Down
 cd ~/Dow
-cd   
+cd
 dir
 git config --global user.email
 git config --global user.email "genetroy@hotmail.com"
