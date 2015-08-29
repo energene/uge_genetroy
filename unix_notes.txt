@@ -12,7 +12,7 @@ cd
 cd clear
 cd ..
 cd ../Drop\ Box/
-cd Drop\ Box/
+cd Drop\ Box/ASDsd
 cd dr
 cd Public/
 cd Applications/
